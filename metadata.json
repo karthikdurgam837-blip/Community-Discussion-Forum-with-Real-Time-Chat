@@ -1,0 +1,6 @@
+{
+  "name": "Community Discussion Forum with Real-Time Chat",
+  "description": "A full-stack community cohort platform offering asynchronous threaded discussions, categories, tags, voting, alongside real-time chat rooms with live presence updates and an automated Gemini AI moderation assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
